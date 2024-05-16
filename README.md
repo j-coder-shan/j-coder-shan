@@ -22,8 +22,7 @@
 
 - ---
 
-<br>
-<h3 align="CENTER">Languages and Tools:</h3>
+<h3 align="CENTER">Languages and Tools :</h3>
 <p align="CENTER"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
@@ -40,7 +39,7 @@
 <br>
 
 ---
-
+<h3 align="center">My Statistics :</h3>
 <br>
 <table align="center">
 <tr border="none">
@@ -57,7 +56,7 @@
 ---
 
 
-<h3 align="CENTER">Connect with me:</h3>
+<h3 align="CENTER">Connect with me :</h3>
 <p align="CENTER">
 <a href="https://twitter.com/shanprabod_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanprabod_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shanprabodh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanprabodh" height="30" width="40" /></a>
@@ -69,5 +68,5 @@
 ---
 
 
-<h3 align="CENTER">Support:</h3>
+<h3 align="CENTER">Support :</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Prabod Jayasinghe"> <img align="CENTER" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prabod Jayasinghe" /></a></p><br>
