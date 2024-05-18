@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
 <h1 align="center">Hi 👋, I'm Prabod Jayasinghe !</h1>
-<h3 align="center">An Undergraduate Student At The University Of Kelaniya.</h3>
+<h3 align="center">- IT Enthusiast -<br>Electronics And Computer Science Undergraduate</h3>
 
 <p align="CENTER"> <img src="https://komarev.com/ghpvc/?username=j-coder-shan&label=Profile%20views&color=0e75b6&style=flat" alt="j-coder-shan" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 💬 Ask me about **Dekstop Software Development || JAVA**
+- 💬 Ask me about **Web & Software Development**
 
 - 📫 How to reach me **shanprabodh@icloud.com**
 
