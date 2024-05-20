@@ -46,12 +46,12 @@
 <td width="50%" align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=j-coder-shan&theme=dark&show_icons=true&locale=en&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="j-coder-shan" /></p>
 </td>
-  <td> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=j-coder-shan&&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="j-coder-shan" /></p></td>
+  <td> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=j-coder-shan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="j-coder-shan" /></p></td>
 </tr>
 </table>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-coder-shan&&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="j-coder-shan" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-coder-shan&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="j-coder-shan" /></p><br>
 
 ---
 
