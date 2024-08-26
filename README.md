@@ -1,8 +1,21 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
-<h1 align="center">Hi 👋, I'm Prabod Jayasinghe !</h1>
-<h3 align="center">- IT Enthusiast -<br>Electronics And Computer Science Undergraduate</h3>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
 
-<p align="CENTER"> <img src="https://komarev.com/ghpvc/?username=j-coder-shan&label=Profile%20views&color=0e75b6&style=flat" alt="j-coder-shan" /> </p>
+<h1 align="center">Hi there, I'm Prabod Jayasinghe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h3 align="center">💻 IT Enthusiast | 🎓 Electronics & Computer Science Undergraduate</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=j-coder-shan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/j-coder-shan?tab=followers">
+    <img src="https://img.shields.io/github/followers/j-coder-shan?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/j-coder-shan">
+    <img src="https://img.shields.io/github/stars/j-coder-shan?label=GitHub%20Stars&style=social" alt="GitHub Stars">
+  </a>
+</p>
+
+---
 
 <table align="center">
 <tr border="none">
@@ -70,3 +83,5 @@
 
 <h3 align="CENTER">Support :</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Prabod Jayasinghe"> <img align="CENTER" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prabod Jayasinghe" /></a></p><br>
+
+
